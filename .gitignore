@@ -1,0 +1,17 @@
+_site/*
+!.gitkeep
+.project
+*.draft
+*.pid
+*.DS_Store
+*.pyc
+*~
+._*
+*.lock
+*.DS_Store
+*.swp
+*.out
+*.py[cod]
+output
+.idea/*
+.env
